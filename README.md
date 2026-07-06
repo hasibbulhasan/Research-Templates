@@ -19,8 +19,7 @@ This repository contains templates and resources for medical and clinical resear
 - Renal Nutrition
 - Chronic Kidney Disease (CKD)
 - Critical Care Nutrition
-- Biostatistics
-- Evidence-Based Medicine
+
 
 ## Author
 Hasibul Hasan
